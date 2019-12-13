@@ -31,7 +31,23 @@
 #produk .testi-info h5{ font-size:14px; color:#454545; margin:0px; padding-bottom:10px; font-weight:normal;}
 #produk .testi-info p{ font-size:15px; color:#454545; line-height:20px;}
 
-
+.contact{
+	color: white;
+	max-width: -1500px;
+    margin-right: -650px;
+    margin-top: -370px;
+    margin-left: -70px;
+    text-align: left!important;
+}
+.map {
+	color: white;
+	width: 105px; 
+	height: 400px;
+	max-width: 500px;
+    margin-left: 600px;
+    margin-top: -20px;
+    margin-right: 20px;
+}
 
 
 
